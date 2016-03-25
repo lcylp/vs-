@@ -1,0 +1,13 @@
+﻿Build started 2016/3/24 9:34:44.
+     1>Project "D:\项目\vs工程\num_pi\num_pi\num_pi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\项目\vs工程\num_pi\Debug\num_pi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\项目\vs工程\num_pi\Debug\num_pi.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\项目\vs工程\num_pi\Debug\num_pi.lib" /MACHINE:X86 Debug\Source.obj
+         num_pi.vcxproj -> D:\项目\vs工程\num_pi\Debug\num_pi.exe
+     1>Done Building Project "D:\项目\vs工程\num_pi\num_pi\num_pi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
